@@ -1,0 +1,10 @@
+public class BoletimEstudantil {
+    public static void main(String[] args) {
+        byte idade = 123;
+        short ano = 2023;
+        int cep = 1313123;
+        long cpf = 831092380;
+        float pi = 3.14f;
+        double salario = 1234.32;
+    }
+}
